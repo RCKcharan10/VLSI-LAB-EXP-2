@@ -51,7 +51,7 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 VERILOG CODE
 
 3to8 Decoder
-
+...
 module decoder(
 
     input [2:0] a,
@@ -103,7 +103,7 @@ assign d[6]=(din&s[2]&s[1]&~s[0]);
 assign d[7]=(din&s[2]&s[1]&s[0]);
 
 endmodule
-
+...
 Encoder8to3
 
 module encoder_8_to_3(a0,a1,a2,d7,d6,d5,d4,d3,d2,d1,d0);
