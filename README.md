@@ -149,6 +149,7 @@ always@({s ,a})
 endmodule
 ```
 # OUTPUT WAVEFORM
+
 # Multiplexer
 
 ![Mux](https://github.com/RCKcharan10/VLSI-LAB-EXP-2/assets/117891438/75ee160b-f792-4efe-858e-7ca4e9926b78)
@@ -168,6 +169,28 @@ endmodule
 # 3 to 8 Decoder
 
 ![3 to 8 Decoder](https://github.com/RCKcharan10/VLSI-LAB-EXP-2/assets/117891438/6e4f30fb-8da4-4f13-9096-d7aa9559baac)
+
+# RTL Design
+
+# Multiplexer
+
+<img width="761" alt="8 to 1 Multiplexer" src="https://github.com/RCKcharan10/VLSI-LAB-EXP-2/assets/117891438/85c03dbc-f941-4c48-9ddf-49f4ab5342c4">
+
+# Magnitude Comparator
+
+<img width="761" alt="Magnitude Comparator" src="https://github.com/RCKcharan10/VLSI-LAB-EXP-2/assets/117891438/581f136c-8f0f-40aa-981b-b8299e269f9d">
+
+# Demultiplier
+
+<img width="767" alt="1 to 8 Demultiplier" src="https://github.com/RCKcharan10/VLSI-LAB-EXP-2/assets/117891438/8e681a69-d96e-489a-bea1-b9e273d43b94">
+
+# 8 to 3 Encoder
+
+<img width="764" alt="8 to 3 Encoder" src="https://github.com/RCKcharan10/VLSI-LAB-EXP-2/assets/117891438/08f3ff7c-b9e5-469b-8bb8-53c980cd1ca0">
+
+# 3 to 8 Decoder
+
+<img width="766" alt="3 to 8 Decoder" src="https://github.com/RCKcharan10/VLSI-LAB-EXP-2/assets/117891438/d3549f3d-02f0-47f0-ad57-e5022d165e3b">
 
 
 # RESULT
