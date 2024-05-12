@@ -1,12 +1,15 @@
 # 2.SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
 
-AIM: 
+# AIM: 
+
 To simulate ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using VIVADO 2023.1.
 
-APPARATUS REQUIRED:
+# APPARATUS REQUIRED:
+
 VIVADO 2023.1
   
-PROCEDURE:
+# PROCEDURE:
+
 1. Open Vivado: Launch Xilinx Vivado software on your computer.
 
 2. Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
@@ -25,7 +28,7 @@ PROCEDURE:
 
 9. View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
-**LOGIC DIAGRAM**
+# LOGIC DIAGRAM
 
 ENCODER
 
